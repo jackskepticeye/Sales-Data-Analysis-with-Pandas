@@ -29,5 +29,4 @@ To answer these questions we walk through many different pandas & matplotlib met
 
 <img width="440" alt="Screenshot 2023-01-14 at 13 28 48" src="https://user-images.githubusercontent.com/60337834/212462506-b5b2c885-81a4-42bf-a5c6-d6b631f2f12c.png">
 <img width="412" alt="Screenshot 2023-01-14 at 13 29 2<img width="552" alt="Screenshot 2023-01-14 at 13 30 41" src="https://user-images.githubusercontent.com/60337834/212462530-afbea0b9-b855-49e0-82de-6556118c7f1b.png">
-6" src="https://user-images.githubusercontent.com/60337834/212462513-b57b9dea-0f7b-40b7-b015-f2886bbc9420.png">
 <img width="436" alt="Screenshot 2023-01-14 at 13 29 57" src="https://user-images.githubusercontent.com/60337834/212462521-680b7ac7-98db-4042-98e3-8e45340cee42.png">
